@@ -16,7 +16,7 @@ This Alfred workflow allows you to search your Google Chrome browser history dir
 ## Configuration
 
 ### Prerequisites
-
+- **Chrome**: Ensure Chrome is installed on your system.
 - **Python**: Ensure Python is installed on your system. The script uses Python to query the database.
 - **Alfred Powerpack**: This workflow requires the Alfred Powerpack for advanced features like Script Filters.
 
